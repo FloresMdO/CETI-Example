@@ -1,2 +1,0 @@
-# CETI-Example
-repositorio CETI
